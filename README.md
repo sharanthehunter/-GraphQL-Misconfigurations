@@ -33,8 +33,14 @@ Now since we have the entire API calls list we can go over it and easily try to 
 
 
 Video POC attached here :
+
 https://drive.google.com/file/d/1UtspZvhdlDeInEPdQj4p4QOyVX1jLlkm/view
+
 watch this video for clear understanding.
+
+
+Impact:
+ sensitive information disclosure using graphql backend API call leakage.
 
  
  
